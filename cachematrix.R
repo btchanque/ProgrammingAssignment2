@@ -1,5 +1,5 @@
 # ********************************************************************************************
-# Course Era: Assignment 2 - Lexical
+# Course Era: Assignment 2 - Lexical Scoping
 # FileName: cachematrix.R
 # Author: Blandine Meillon
 # Date: 12 DEC 2014
